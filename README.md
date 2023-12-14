@@ -5,6 +5,14 @@
 Esta es una aplicación que te permite explorar información sobre diferentes Pokémon.
 Para obener la informacion, se realizan peticiones a la api:  https://pokeapi.co/docs/v2
 
+<h4>Tecnologias que se usaron </h4>
+ - Node <br/>
+ - Express <br/>
+ - React <br/>
+ - Ionic <br/>
+
+ 
+
 ## Rutas de la aplicación
 La aplicación tiene dos rutas principales:
 
