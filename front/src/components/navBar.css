@@ -1,0 +1,20 @@
+.animated-text {
+    animation-name: slideText;
+    animation-duration: 20s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 8vh; 
+  }
+  
+ 
+  @keyframes slideText {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
