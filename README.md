@@ -3,6 +3,7 @@
 
 ## Descripcion
 Esta es una aplicación que te permite explorar información sobre diferentes Pokémon.
+Para obener la informacion, se realizan peticiones a la api:  https://pokeapi.co/docs/v2
 
 ## Rutas de la aplicación
 La aplicación tiene dos rutas principales:
