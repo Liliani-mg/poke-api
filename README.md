@@ -45,8 +45,8 @@ cd poke-api/back
 npm install
 npm start
 
-cd poke-api/front
+cd poke-api/frontend
 npm install
-npm run dev
+ionic serve
 
 ```
