@@ -5,6 +5,6 @@ import { defineConfig } from "vite";
 export default defineConfig({
   plugins: [react(), legacy()],
   build: {
-    outDir: "build",
+    outDir: "dist",
   },
 });
