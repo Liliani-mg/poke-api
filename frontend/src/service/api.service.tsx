@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = process.env.REACT_APP_API_URL || "http://localhost:5000";
+const BASE_URL = "https://poke-api-tyqw.onrender.com";
 
 export const fetchPokemons = async (page = 1, limit = 15) => {
   try {
